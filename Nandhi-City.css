@@ -212,20 +212,20 @@
   margin: 62px 8px 0 530px;
 }
 
+.u-section-2 .u-text-3 {
+  margin: -44px 20px 0 518px;
+}
+
 .u-section-2 .u-image-2 {
   width: 490px;
   height: 326px;
   box-shadow: -14px 14px 32px 0px rgba(128,128,128,0.9);
-  margin: -6px auto 0 8px;
-}
-
-.u-section-2 .u-text-3 {
-  margin: -298px 8px 0 530px;
+  margin: -115px auto 0 8px;
 }
 
 .u-section-2 .u-text-4 {
   line-height: 1.8;
-  margin: 27px 20px 0 518px;
+  margin: -117px 20px 0 518px;
 }
 
 .u-section-2 .u-tab-pane-2 {
@@ -434,20 +434,21 @@
     margin-left: 340px;
   }
 
-  .u-section-2 .u-image-2 {
-    margin-top: -68px;
-    margin-left: 9px;
-  }
-
   .u-section-2 .u-text-3 {
     width: auto;
-    margin-top: -265px;
+    margin-top: -7px;
     margin-right: 0;
     margin-left: 340px;
   }
 
+  .u-section-2 .u-image-2 {
+    margin-top: -215px;
+    margin-left: 9px;
+  }
+
   .u-section-2 .u-text-4 {
     width: auto;
+    margin-top: -18px;
     margin-right: 0;
     margin-left: 340px;
   }
@@ -478,16 +479,16 @@
     margin-left: 230px;
   }
 
-  .u-section-2 .u-image-2 {
-    margin-top: 0;
-  }
-
   .u-section-2 .u-text-3 {
-    margin-top: -333px;
     margin-left: 230px;
   }
 
+  .u-section-2 .u-image-2 {
+    margin-top: -172px;
+  }
+
   .u-section-2 .u-text-4 {
+    margin-top: -60px;
     margin-left: 230px;
   }
 
@@ -525,11 +526,16 @@
   }
 
   .u-section-2 .u-text-3 {
-    margin-top: -330px;
+    margin-top: -4px;
     margin-left: 72px;
   }
 
+  .u-section-2 .u-image-2 {
+    margin-top: -175px;
+  }
+
   .u-section-2 .u-text-4 {
+    margin-top: -57px;
     margin-left: 72px;
   }
 
@@ -570,19 +576,21 @@
     margin-left: 0;
   }
 
+  .u-section-2 .u-text-3 {
+    margin-top: 19px;
+    margin-left: 0;
+  }
+
   .u-section-2 .u-image-2 {
     height: 213px;
+    margin-top: -275px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
   }
 
-  .u-section-2 .u-text-3 {
-    margin-top: -194px;
-    margin-left: 0;
-  }
-
   .u-section-2 .u-text-4 {
+    margin-top: 156px;
     margin-left: 0;
   }
 
