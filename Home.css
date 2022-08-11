@@ -24,7 +24,6 @@
 
  .u-section-1-1 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/IMG_5370-min1.jpg");
-  background-position: 50% 50%;
 }
 
 .u-section-1-1 .u-sheet-1 {
@@ -53,6 +52,10 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-1-1 {
+    background-position: 50% 50%;
+  }
+
   .u-section-1-1 .u-sheet-1 {
     min-height: 660px;
   }
@@ -102,7 +105,6 @@
 
  .u-section-1-2 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/IMG_5435-min.jpg");
-  background-position: 50% 50%;
 }
 
 .u-section-1-2 .u-sheet-1 {
@@ -131,6 +133,10 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-1-2 {
+    background-position: 50% 50%;
+  }
+
   .u-section-1-2 .u-sheet-1 {
     min-height: 660px;
   }
@@ -193,7 +199,6 @@
 
  .u-section-1-3 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/IMG_5509-min.jpg");
-  background-position: 50% 50%;
 }
 
 .u-section-1-3 .u-sheet-1 {
@@ -222,6 +227,10 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-1-3 {
+    background-position: 50% 50%;
+  }
+
   .u-section-1-3 .u-sheet-1 {
     min-height: 559px;
   }
@@ -279,7 +288,6 @@
 
  .u-section-1-4 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/IMG_5516-min.jpg");
-  background-position: 50% 50%;
 }
 
 .u-section-1-4 .u-sheet-1 {
@@ -308,6 +316,10 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-1-4 {
+    background-position: 50% 50%;
+  }
+
   .u-section-1-4 .u-sheet-1 {
     min-height: 660px;
   }
@@ -366,7 +378,6 @@
 
  .u-section-1-5 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("images/IMG_5667-min.jpg");
-  background-position: 50% 50%;
 }
 
 .u-section-1-5 .u-sheet-1 {
@@ -395,6 +406,10 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-1-5 {
+    background-position: 50% 50%;
+  }
+
   .u-section-1-5 .u-sheet-1 {
     min-height: 559px;
   }
@@ -1496,8 +1511,8 @@
 .u-section-7 .u-social-icons-1 {
   height: 32px;
   min-height: 16px;
-  width: 116px;
-  min-width: 68px;
+  width: 74px;
+  min-width: 42px;
   margin: 22px auto 0 0;
 }
 
@@ -1506,10 +1521,6 @@
 }
 
 .u-section-7 .u-icon-2 {
-  height: 100%;
-}
-
-.u-section-7 .u-icon-3 {
   height: 100%;
 }
 
